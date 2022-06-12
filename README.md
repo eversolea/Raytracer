@@ -5,6 +5,7 @@ Images from each step of building the raytracer: https://www.cs.drexel.edu/~ae58
 
 Code:
 raytracer.cpp - Main Raytracer code, runs independently
+
 raytracer_post_acceleration.cpp - Early BVH implementation of raytracer (see limtations section below), runs independently
 
 # Setup for OpenCV and Eigen
