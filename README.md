@@ -20,7 +20,9 @@ Also include Eigen in the Additional Include Directories
 
 # Render examples:
 
+Inspired by Pixar
 ![image](https://user-images.githubusercontent.com/15019257/173214602-657f7061-e246-4f00-ad83-0175637f8af2.png)
+Inspired by the video game Halo
 ![image](https://user-images.githubusercontent.com/15019257/173214605-3abaa79f-0af3-410a-94ba-0d7e0bf9880c.png)
 ![image](https://user-images.githubusercontent.com/15019257/173214604-c17f9cde-8484-4d5f-a48e-92fe02dc0eb2.png)
 
