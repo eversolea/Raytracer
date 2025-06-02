@@ -16,7 +16,7 @@ Also include Eigen in the Additional Include Directories
 - Normals are being interpolated on flat surfaces of polygonal meshes, which can cause undesired effects if the flat surface is made reflective
 - Only one 3D Procedural texture has been implemented (see the "tex.type ==" if conditions in getPixelColorFromRay)
 - Cylinder entity is not fully implemented yet and is buggy
-- Bounding Volume Heirarchy is not implemented in the main raytracer program (raytracer.cpp) but instead in raytracer_post_acceleration.cpp which only includes the phong shading model and nonadaptive pixel average supersampling. I had troulbe getting my BVH implementation to work well with shadow rays so I moved on without BVH fornow.
+- Bounding Volume Heirarchy is not implemented in the main raytracer program (raytracer.cpp) but instead in raytracer_post_acceleration.cpp which only includes the phong shading model and nonadaptive pixel average supersampling. I had trouble getting my BVH implementation to work well with shadow rays so I moved on without BVH for now.
 
 # Render examples:
 
